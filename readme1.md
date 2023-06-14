@@ -1,7 +1,7 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to VVahyudi World
+  <a href="https://app.daily.dev/vvahyudi"><img src="https://api.daily.dev/devcards/b2c534c6d25140e4ad5604ddf9474d9b.png?r=izf" width="400" alt="Ahmad Wahyudi's Dev Card"/></a>
 </h2>
 -->
 

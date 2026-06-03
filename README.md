@@ -1,17 +1,69 @@
-### Hi there 👋
-<div flex align-items="center"> 
-   <a href="https://app.daily.dev/vvahyudi"><img src="https://api.daily.dev/devcards/b2c534c6d25140e4ad5604ddf9474d9b.png?r=izf" width="400" alt="Ahmad Wahyudi's Dev Card"/></a>
-</div>
-**vvahyudi/vvahyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmad 👋
 
-Here are some ideas to get you started:
+Software Engineer & AI Engineer from Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Passionate about building modern web applications, AI-powered products, and scalable software solutions that solve real-world problems.
 
+## Expertise
+
+* Full-Stack Web Development
+* AI Engineering
+* Backend Development
+* System Design
+* Database Architecture
+* Automation & Productivity Systems
+
+## Tech Stack
+
+**Frontend**
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+**Backend**
+
+* Node.js
+* PostgreSQL
+* Prisma
+* REST APIs
+
+**Tools & Infrastructure**
+
+* Docker
+* Git & GitHub
+* Linux
+* Cloud Platforms
+
+**AI**
+
+* OpenAI
+* Claude
+* AI Agents
+* OCR Systems
+* LLM Applications
+
+## Current Focus
+
+* Building AI-powered applications
+* Developing scalable SaaS products
+* Exploring AI Agents and automation workflows
+* Contributing to open-source projects
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+## Connect
+
+* Portfolio: [ahmadwahyudi.xyz](https://ahmadwahyudi.xyz)
+* LinkedIn: [Ahmad Wahyudi](https://linkedin.com/in/ahmadwahyudi)
+* Email: [ahmadwahyudi2395@gmail.com](mailto:ahmadwahyudi2395@gmail.com)
+
+---
+
+> Building useful software, continuously learning, and embracing the future of AI.

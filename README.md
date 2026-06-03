@@ -54,8 +54,8 @@ Passionate about building modern web applications, AI-powered products, and scal
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadwahyudi&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwahyudi&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vvahyudi&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvahyudi&layout=compact&hide_border=true" />
 </p>
 
 ## Connect
